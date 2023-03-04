@@ -1,0 +1,3 @@
+{
+    "work_dir": "gs://twitter-sentiment-analysis-batch/twitter-sentiment-airflow"
+}
